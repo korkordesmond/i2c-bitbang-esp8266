@@ -8,9 +8,9 @@ boards. The controller sends a byte, and the target shows it on 8 LEDs.
 ## Why
 Over the last few months I've been building projects to learn hardware
 concepts. This project is one of three:
-1. [State-Machine Traffic Light Controller](https://github.com/korkordesmond/Sync-Traffic-Light-Controller)
+1. [SPI / I2C with bit-banged timing (this project)](https://github.com/korkordesmond/i2c-bitbang-esp8266)
 2. RISC CPU Core
-3. SPI / I2C with bit-banged timing (this project)
+3. [State-Machine Traffic Light Controller](https://github.com/korkordesmond/Sync-Traffic-Light-Controller)
 
 ## What is I2C
 I2C is a serial communication protocol that uses only two signal lines:
